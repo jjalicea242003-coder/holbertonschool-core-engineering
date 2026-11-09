@@ -9,7 +9,4 @@ def uppercase(text):
         else:
             result += char
 
-    print(result)
-
-
-uppercase("holberton")
+    print("{}".format(result))
