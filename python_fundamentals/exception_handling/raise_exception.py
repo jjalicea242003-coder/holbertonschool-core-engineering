@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-def rasie_exception():
+def raise_exception():
     raise TypeError
 
 try:
