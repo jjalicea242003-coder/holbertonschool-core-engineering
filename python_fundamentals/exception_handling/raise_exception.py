@@ -2,11 +2,3 @@
 
 def raise_exception():
     raise TypeError
-
-try:
-    raise_exception()
-    print("Funcion ejecutada")
-except TypeError:
-          print("Excepcion capturada")
-
-print("Programa finalizado")
