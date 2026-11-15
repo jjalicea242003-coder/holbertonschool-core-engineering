@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 def rasie_exception():
-    raise Typeerror
+    raise TypeError
 
 try:
     rasie_exception()
