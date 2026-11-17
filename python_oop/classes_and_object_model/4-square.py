@@ -21,6 +21,6 @@ class Square:
             raise TypeError("size must be >= 0")
         self.__size = value
 
-    def are(self):
+    def area(self):
         "Represent the area of the square."""
         return self,__size ** 2
