@@ -5,7 +5,6 @@
 BaseGeometry = __import__('base_geometry').BaseGeometry
 
 
-
 class Rectangle(BaseGeometry):
     """Represent a rectangle."""
 
