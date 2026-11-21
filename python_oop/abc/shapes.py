@@ -31,7 +31,7 @@ class Circle(Shape):
         """Calculates the circle area."""
         return self.pi * self.radius ** 2
 
-    def peerimeter(self):
+    def perimeter(self):
         """Calculates the circle perimeter."""
         return 2 * self.pi * self.radius
 
