@@ -27,7 +27,7 @@ class Bird:
         print("The bird lives in the sky")
 
 
-class Flyingfish(Fish, Bird):
+class FlyingFish(Fish, Bird):
     """Represent a flyingfish."""
 
     def fly(self):
